@@ -8,6 +8,7 @@ namespace NigamOnlineCheck
         public void main (string[]args)
         {
             WriteLine("Enna koduma saravanan");
+            WriteLine("Varlana setha");
         }
     }
 }
